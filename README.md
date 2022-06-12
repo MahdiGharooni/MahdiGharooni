@@ -4,7 +4,7 @@
 <div align="center">
 <p align="center">Join Me In Socials!</p>
     
-<a href="https://www.linkedin.com/in/mohammadmahdi-gharoonijafari-582390121/">
+<a href="https://www.linkedin.com/in/mahdigharooni/">
     <img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" />
 </a>
    
