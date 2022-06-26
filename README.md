@@ -31,7 +31,7 @@
 
 - 🔭 I’m currently working on Flutter framework
 - 👯 I’m looking to collaborate on international projects
-- 💬 Ask me anything about flutter and dart
+- 💬 Ask me anything about Flutter and Dart
 - 📫 You can connect with me: mmahdi.gjafari69@gmail.com
 - 💖 I love my family 
     
