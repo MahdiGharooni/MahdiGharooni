@@ -29,11 +29,12 @@
     
 ### I'm a Mobile development lover:
 
-- 🔭 I’m currently working on Flutter framework
-- 👯 I’m looking to collaborate on international projects
-- 💬 Ask me anything about Flutter and Dart
-- 📫 You can connect with me: mmahdi.gjafari69@gmail.com
-- 💖 I love my family 
+- 🔭 I’m currently working on Flutter framework.
+- 👯 I’m looking to collaborate on international projects.
+- 💬 Ask me anything about Flutter and Dart.
+- 📚 I'm passionate to learn Mobile Native Languages (Java, Swift).    
+- 📧 You can connect with me: mmahdi.gjafari69@gmail.com
+- 💖 I love my family.
     
  </div>   
  <br><br>     
