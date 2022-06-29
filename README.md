@@ -4,14 +4,11 @@
          width="45" /> I'm Mahdi Gharooni</h1>
 
 
-
-
-
 <div>
     
 ## 💫 About Me :
 
-- 🔭 I’m currently working on Flutter framework.
+- 🔭 I’m a Flutter Developer for about 3 years.
 - 👯 I’m looking to collaborate on international projects.
 - 💬 Ask me anything about Flutter and Dart.
 - 📚 I'm passionate to learn Mobile Native Languages (Java, Swift).    
@@ -57,10 +54,10 @@
 <br><br>     
   
   
-## GitHub Statistics
+## 👨🏻‍💻 GitHub Statistics
 <div>
     
-[![Mahdi Gharooni GitHub Stats](https://github-readme-stats.vercel.app/api?username=MahdiGharooni&show_icons=true&theme=radical)](https://github.com/anuraghazra/github-readme-stats)    
+[![Mahdi Gharooni GitHub Stats](https://github-readme-stats.vercel.app/api?username=MahdiGharooni&show_icons=true&theme=radical)](https://github.com/anuraghazra/github-readme-stats)    <img width="48%" src="https://github-readme-streak-stats.herokuapp.com/?user=MahdiGharooni&theme=radical" />
     
 </div>    
 
@@ -72,7 +69,7 @@
 
 ## 💳 Github Profile Summary Card
 <p align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=MahdiGharooni&theme=vue"/>
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=MahdiGharooni&theme=radical"/>
 </p>
 
 
