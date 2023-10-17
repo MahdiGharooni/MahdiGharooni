@@ -8,10 +8,10 @@
     
 ## 💫 About Me :
 
-- 🔭 I’m a Flutter Developer for about 3 years.
+- 🔭 I’ve been a Flutter Developer for about 4 years.
 - 👯 I’m looking to collaborate on international projects.
 - 💬 Ask me anything about Flutter and Dart.
-- 📚 I'm passionate to learn Mobile Native Languages (Java, Swift).    
+- 📚 I'm passionate about learning Mobile Native Languages (Java, Kotlin, Swift).    
 - 📧 You can connect with me: mmahdi.gjafari69@gmail.com
 - 💖 I love my family.
     
